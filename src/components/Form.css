@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width:60px;
+    justify-content: center;
+}
+
+.textInputs{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.radioInputs{
+    display: flex;
+    flex-direction: column;
+    
+}
